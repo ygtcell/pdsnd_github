@@ -8,7 +8,7 @@ Bikeshare python project
 Analysis of bicycle sharing system in the city of Chicago, NYC and Washington.
 
 ### Files used
-Chicago, NYC and Washington bikesahare data that includes first 6 months information of 2017.
+Chicago, NYC, Washington bikeshare data that includes first 6 months information of 2017.
 
 ### Credits
 Project created by Yigit KAYDA
