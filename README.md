@@ -2,7 +2,7 @@
 18.06.2020
 
 ### Project Title
-Bikeshare Python Project
+Bikeshare python project
 
 ### Description
 Analysis of bicycle sharing system in the city of Chicago, NYC and Washington.
